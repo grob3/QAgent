@@ -1,0 +1,10 @@
+
+torch
+numpy
+gym
+playwright
+streamlit
+Pillow
+imageio
+matplotlib
+tensorzero @ git+https://github.com/tensorzero/tensorzero.git
